@@ -1,4 +1,4 @@
-### Advice on paper reading
+## Advices on paper reading
 
 1. **Be ready to read papers**:
    + **Compile a list of papers**: to create a reading list
@@ -17,7 +17,7 @@
    + What **other references** do I want to follow ?
 5. **How much time it takes to understand a paper**: 1h~3h
 6. **Sources of papers**: 
-   + `Blog Post` 、`Github Paper list` for beginner
+   + [`Paper with code`](https://paperswithcode.com/sota) 、`Github Paper list`、`Blog Post` for beginner
    + `Twitter`、`ML subreddit`、`Conferences` for sota
 7. **To understand the math in papers more deeply**: Rederive it from scratch
 8. **To practice Coding**: 
