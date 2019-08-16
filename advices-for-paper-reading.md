@@ -11,9 +11,9 @@
    + **Go Detail**: Read the `Title` `Abstract` `Figures` and maybe `Experiments`
    + Read the paper but **skip the math**
 4. **What to answer after reading a paper**:
-   + **What** did the author(s) try to **accomplish **?
+   + **What** did the author(s) try to **accomplish**?
    + What were the **key elements** of the approach ?
-   + **What can I use myself **?
+   + **What can I use myself**?
    + What **other references** do I want to follow ?
 5. **How much time it takes to understand a paper**: 1h~3h
 6. **Sources of papers**: 
