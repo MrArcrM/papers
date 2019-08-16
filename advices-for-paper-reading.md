@@ -1,4 +1,4 @@
-## Advices on paper reading
+## Advices for paper reading
 
 1. **Be ready to read papers**:
    + **Compile a list of papers**: to create a reading list

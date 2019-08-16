@@ -1,3 +1,9 @@
+## Sth. worth a look
+
+🏷 [**Advices for navigating a career in machine learning**](advices-for-navigating-a-career-in-ml.md)
+
+🏷 [**Advices for paper reading**](advices-for-paper-reading.md)
+
 
 
 ## Two papers A week for A year
