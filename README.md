@@ -4,13 +4,13 @@
 
 🏷 [**Advices for paper reading**](advices-for-paper-reading.md)
 
-
+<br>
 
 ## Two papers A week for A year
 
 > To keep getting better, it’s better to read `two papers a week` `for the next year` than cramming everything over a short period of time.
 >
-> ​                                                                                                              —— Andrew. Ng, cs230, lecture 8
+> &nbsp; &nbsp; —— Andrew. Ng, cs230, lecture 8
 
 
 
