@@ -6,7 +6,7 @@
 
 2. **To build the horizontal piece**:
 
-   [Courses](https://github.com/kmario23/deep-learning-drizzle) and [Papers](./advices-on-paper-reading.md)
+   [Courses](https://github.com/kmario23/deep-learning-drizzle) and [Papers](./advices-for-paper-reading.md)
 
 3. **To build the vertical piece**:
 
