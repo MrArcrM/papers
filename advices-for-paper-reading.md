@@ -32,3 +32,14 @@
 + [Medium note](https://blog.usejournal.com/advice-on-building-a-machine-learning-career-and-reading-research-papers-by-prof-andrew-ng-f90ac99a0182)
 + [cs230 lecture-8](https://www.youtube.com/watch?v=733m6qBH-jI&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb#action=share)
 
+
+
+```java
+class Solution {
+    public static void main(String[] args) {
+				System.out.println("Hi, OuDuoNi");
+    }
+}
+
+```
+
